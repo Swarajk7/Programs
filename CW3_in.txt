@@ -1,0 +1,11 @@
+< StackPanel>
+
+#<Panel color="023456"margin="1,1,1,1">
+
+#<Panel backgroundcolor="234556" margin="2,3,4,3"/>
+##<Panel/>
+##<Label text="HelloWorld"/>
+
+#</Panel>
+
+< /StackPanel>

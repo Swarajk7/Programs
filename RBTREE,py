@@ -1,0 +1,5 @@
+ar=[0]*32
+ar[0]=0
+for i in range(1,len(ar)):
+    ar[i]=1-ar[i-1]
+print ar
